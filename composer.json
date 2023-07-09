@@ -1,0 +1,8 @@
+{
+    "config": {
+        "vendor-dir": "api/vendor"
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.7"
+    }
+}

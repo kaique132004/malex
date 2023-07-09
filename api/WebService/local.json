@@ -1,0 +1,848 @@
+{
+    "Acre": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Vila Aeroporto",
+          "cep": "69923-900",
+          "cidade": "Rio Branco",
+          "endereco": "Avenida Plácio de Castro",
+          "estado": "AC"
+        },
+        "nome": "Aeroporto de Rio Branco",
+        "telefone": "(68) 3211-1000"
+      }
+    ]
+  },
+  "Alagoas": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Tabuleiro do Pinto",
+          "cep": "57000-000",
+          "cidade": "Rio Largo",
+          "endereco": "Rodovia BR 104, Km 91",
+          "estado": "AL"
+        },
+        "nome": "Aeroporto de Maceió",
+        "telefone": "(82) 3036-5200"
+      }
+    ]
+  },
+  "Amapá": "",
+  "Amazonas": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Tarumã",
+          "cep": "69041-000",
+          "cidade": "Manaus",
+          "endereco": "Avenida Santos Dumont, 1350",
+          "estado": "AM"
+        },
+        "nome": "Aeroporto de Manaus",
+        "telefone": "(92) 3652-1210"
+      }
+    ]
+  },
+  "Bahia": "",
+  "Ceará": "",
+  "Distrito Federal": "",
+  "Espírito Santo": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Goiabeiras",
+          "cep": "29075-920",
+          "cidade": "Vitória",
+          "endereco": "Avenida Fernando Ferrari, 2540",
+          "estado": "ES"
+        },
+        "nome": "Aeroporto de Vitória",
+        "telefone": "(27) 3235-6300"
+      }
+    ]
+  },
+  "Goiás": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Santa Genoveva",
+          "cep": "74672-410",
+          "cidade": "Goiânia",
+          "endereco": "Praça Capitão Frazão, 913",
+          "estado": "GO"
+        },
+        "nome": "Aeroporto de Goiânia",
+        "telefone": "(62) 3265-1500"
+      }
+    ]
+  },
+  "Maranhão": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Tirirical",
+          "cep": "65036-290",
+          "cidade": "São Luís",
+          "endereco": "Avenida dos Libaneses, 3503",
+          "estado": "MA"
+        },
+        "nome": "Aeroporto de São Luís",
+        "telefone": "(98) 3217-6100"
+      },
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "65913-415",
+          "cidade": "Imperatriz",
+          "endereco": "Avenida Moacyr Spósito Ribeiro, s/n",
+          "estado": "MA"
+        },
+        "nome": "Aeroporto de Imperatriz",
+        "telefone": "(99) 3524-4555"
+      }
+    ]
+  },
+  "Mato Grosso": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Jardim Aeroporto",
+          "cep": "78110-900",
+          "cidade": "Várzea Grande",
+          "complemento": "Ala Embarque Referência: Entrada...",
+          "endereco": "Avenida João Ponce de Arruda, s/n",
+          "estado": "MT"
+        },
+        "nome": "Aeroporto de Cuiabá",
+        "telefone": "(65) 3614-2500"
+      }
+    ]
+  },
+  "Mato Grosso do Sul": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Vila Serradinho",
+          "cep": "79101-901",
+          "cidade": "Campo Grande",
+          "endereco": "Avenida Duque de Caxias, s/n",
+          "estado": "MS"
+        },
+        "nome": "Aeroporto de Campo Grande",
+        "telefone": "(67) 3368-6000"
+      }
+    ]
+  },
+  "Minas Gerais": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Lasmar",
+          "cep": "37200-000",
+          "cidade": "Ouro Preto",
+          "endereco": "Rua José Abdon Lasmar, s/n",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Lavras",
+        "telefone": "(31) 3821-9933"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "35540-000",
+          "cidade": "Oliveira",
+          "endereco": "Avenida miguel Resende, 12",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Oliveira",
+        "telefone": "(37) 3331-4287"
+      },
+      {
+        "logradouro": {
+          "bairro": "São Benedito",
+          "cep": "38020-390",
+          "cidade": "Uberaba",
+          "endereco": "Praça Doutor Carlos Terra, 291",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Uberaba",
+        "telefone": "(34) 3336-9999"
+      },
+      {
+        "logradouro": {
+          "bairro": "Martins",
+          "cep": "38400-476",
+          "cidade": "Uberlândia",
+          "endereco": "Praça da Bíblia, 200",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Uberlândia",
+        "telefone": "(34) 3235-5050"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "37470-000",
+          "cidade": "São Lourenço",
+          "endereco": "Rua Manoel Carlos, 130",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de São Lourenço",
+        "telefone": "(35) 3332-4476"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "35400-000",
+          "cidade": "Ouro Preto",
+          "endereco": "Rua Padre Rolim, 16",
+          "estado": "MG"
+        },
+        "nome": "Rodoviaria de Ouro Preto",
+        "telefone": "(31) 3559-3252"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "37010-000",
+          "cidade": "Varginha",
+          "endereco": "Avenida Benjamin Constant, 1000",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Varginha",
+        "te": "(35) 3221-2040"
+      },
+      {
+        "logradouro": {
+          "bairro": "Ilha do Lazareto",
+          "cep": "36660-000",
+          "cidade": "Além Paraíba",
+          "endereco": "Rua José Vital dos Reis, 102",
+          "estado": "MG"
+        },
+        "nome": "Rodoviaria de Além Paraíba",
+        "telefone": "(32) 3462-4227"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "38183-058",
+          "cidade": "Araxá",
+          "endereco": "Avenida Antônio Alves da Costa, s/n",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Araxá",
+        "telefone": "(34) 3691-7126"
+      },
+      {
+        "logradouro": {
+          "bairro": "Trevo",
+          "cep": "37130-000",
+          "cidade": "Alfenas",
+          "endereco": "Avenida Mario Barbosa Vieira, 538",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Alfenas",
+        "telefone": "(35) 3292-1917"
+      },
+      {
+        "logradouro": {
+          "bairro": "Meia Laranja",
+          "cep": "36700-000",
+          "cidade": "Leopoldina",
+          "endereco": "Rua José Pires, 500",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Leopoldina",
+        "telefone": "(32) 3694-4266"
+      },
+      {
+        "logradouro": {
+          "bairro": "n/a",
+          "cep": "39440-000",
+          "cidade": "Janaúba",
+          "endereco": "Rua São Pedro, s/n",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Janaúba",
+        "telefone": "(38) 3821-4034"
+      },
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "31270-700",
+          "cidade": "Belo Horizonte",
+          "endereco": "Praça Bagatelle, 204",
+          "estado": "MG"
+        },
+        "nome": "Aerporto de Pampulha",
+        "telefone": "(31) 3490-2000"
+      },
+      {
+        "logradouro": {
+          "bairro": "Cristo Redentor",
+          "cep": "38700-206",
+          "cidade": "Patos de Minas",
+          "endereco": "Avenida Piauí, 919",
+          "estado": "MG"
+        },
+        "nome": "Rodoviária de Pato de Minas",
+        "telefone": "(34) 3825-4222"
+      },
+      {
+        "logradouro": {
+          "bairro": "Santos Dumont",
+          "cep": "38050-501",
+          "cidade": "Uberaba",
+          "endereco": "Avenida Nenê Sabino, 2706",
+          "estado": "MG"
+        },
+        "nome": "Aeroporto de Uberaba",
+        "telefone": "(34) 3319-9400"
+      },
+      {
+        "logradouro": {
+          "bairro": "n/a",
+          "cep": "33500-900",
+          "cidade": "Confins",
+          "endereco": "Área de Proteção Ambiental Carste de Lagoa Santa, LMG, 800",
+          "estado": "MG"
+        },
+        "nome": "Aeroporto de Confins",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "38406-387",
+          "cidade": "Uberlândia",
+          "endereco": "Praça José Alves dos Santos, 100",
+          "estado": "MG"
+        },
+        "nome": "Aeroporto de Uberlândia",
+        "telefone": "(34) 3233-5420"
+      }
+    ]
+  },
+  "Paraná": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Águas Belas",
+          "cep": "83010-900",
+          "cidade": "São José dos Pinhais",
+          "endereco": "Avenida Rocha Pombo, s/n",
+          "estado": "PR"
+        },
+        "nome": "Aeroporto de Curitiba",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "86039-100",
+          "cidade": "Londrina",
+          "complemento": "Terminal 2 Leste",
+          "endereco": "Rua Tenente João Maurício de Medeiros, 300",
+          "estado": "PR"
+        },
+        "nome": "Aeroporto de Londrina",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "n/a",
+          "cep": "86360-000",
+          "cidade": "Bandeirantes",
+          "endereco": "Rua São Paulo, s/n",
+          "estado": "PR"
+        },
+        "nome": "Rodoviaria de Bandeirantes",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Jardim Botânico",
+          "cep": "80060-980",
+          "cidade": "Curitiba",
+          "endereco": "Avenida Presidente Affonso Camargo, 330",
+          "estado": "PR"
+        },
+        "nome": "Rodoviaria de Curitiba",
+        "telefone": "(41) 3320-3000"
+      },
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "85863-900",
+          "cidade": "Foz do Iguaçu",
+          "complemento": "Terminal 2 Leste",
+          "endereco": " Rodovia BR-469, Km 16,5",
+          "estado": "PR"
+        },
+        "nome": "Aeroporto Foz do Iguaçu",
+        "telefone": "n/a"
+      }
+    ]
+  },
+  "Paraíba": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "58308-901",
+          "cidade": "Bayeux",
+          "endereco": "Aeroporto Internacional Presidente Castro Pinto, s/n",
+          "estado": "PB"
+        },
+        "nome": "Aeroporto de João Pessoa",
+        "telefone": "(83) 3041-4200"
+      }
+    ]
+  },
+  "Pará": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Val-de-Cans",
+          "cep": "66115-970",
+          "cidade": "Belém",
+          "complemento": "Ala de Embarque",
+          "endereco": "Avenida Júlio César, s/n",
+          "estado": "PA"
+        },
+        "nome": "Aeroporto de Belém",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "68010-065",
+          "cidade": "Santarém",
+          "endereco": "Praça Eduardo Gomes, s/n",
+          "estado": "PA"
+        },
+        "nome": "Aeroporto de Santarém",
+        "telefone": "(93) 3522-4328"
+      }
+    ]
+  },
+  "Pernambuco": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Imbiribeira",
+          "cep": "51210-902",
+          "cidade": "Recife",
+          "complemento": "n/a",
+          "endereco": "Praça Ministro Salgado Filho, s/n",
+          "estado": "PE"
+        },
+        "nome": "Aeroporto de Recife",
+        "telefone": "n/a"
+      }
+    ]
+  },
+  "Piauí": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "64006-700",
+          "cidade": "Teresina",
+          "endereco": "Avenida Centenário, s/n",
+          "estado": "PI"
+        },
+        "nome": "Aeroporto de Teresina",
+        "telefone": "(86) 3133-6270"
+      }
+    ]
+  },
+  "Rio Grande do Norte": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "59290-000",
+          "cidade": "São Gonçalo do Amarante",
+          "endereco": "Avenida Ruy Pereira dos Santos, 3100",
+          "estado": "RN"
+        },
+        "nome": "Aeroporto de Natal",
+        "telefone": "n/a"
+      }
+    ]
+  },
+  "Rio Grande do Sul": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "São João",
+          "cep": "90200-310",
+          "cidade": "Porto Alegre",
+          "endereco": "Avenida Severo Dullius, 90010",
+          "estado": "RS"
+        },
+        "nome": "Aeroporto de Porto Alegre",
+        "telefone": "(51) 3358-2000"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro Histórico",
+          "cep": "90035-040",
+          "cidade": "Porto Alegre",
+          "endereco": "Largo Vespasiano Júlio Veppo, 70",
+          "estado": "RS"
+        },
+        "nome": "Rodoviária de Porto Alegre",
+        "telefone": "(51) 3210-0101"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "95150-000",
+          "cidade": "Nova Petrópolis",
+          "endereco": "Avenida 15 de Novembro, 1577",
+          "estado": "RS"
+        },
+        "nome": "Rodoviária de Nova Petrópolis",
+        "telefone": "(54) 3281-1100"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "93010-010",
+          "cidade": "São Leopoldo",
+          "endereco": "Avenida Dom João Becker, 754",
+          "estado": "RS"
+        },
+        "nome": "Rodoviária de São Leopoldo",
+        "telefone": "(51) 3592-1269"
+      },
+      {
+        "logradouro": {
+          "bairro": "Patria Nova",
+          "cep": "93336-130",
+          "cidade": "Novo Hamburgo",
+          "endereco": "Rua Três de Outubro, 667",
+          "estado": "RS"
+        },
+        "nome": "Rodoviaria de Novo Hamburgo",
+        "telefone": "(51) 3525-0990"
+      }
+    ]
+  },
+  "Rio de Janeiro": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "27963-840",
+          "cidade": "Macaé",
+          "endereco": "Estrada Hildebrando Alves Barbosa, s/n",
+          "estado": "RJ"
+        },
+        "nome": "Aeroporto de Macaé",
+        "telefone": "(22) 2763-5700"
+      },
+      {
+        "logradouro": {
+          "bairro": "Ilha do Governador",
+          "cep": "21941-900",
+          "cidade": "Rio de Janeiro",
+          "endereco": "Avenida Vinte de Janeiro, s/n",
+          "estado": "RJ"
+        },
+        "nome": "Aeroporto de Galeão",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "20021-340",
+          "cidade": "Rio de Janeiro",
+          "endereco": "Praça Senador Salgado Filho, s/n",
+          "estado": "RJ"
+        },
+        "nome": "Aeroporto de Santos Dumont",
+        "telefone": "n/a"
+      }
+    ]
+  },
+  "Rondônia": "",
+  "Roraima": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "69310-006",
+          "cidade": "Boa Vista",
+          "endereco": "Praça Santos Dumont, 100",
+          "estado": "RR"
+        },
+        "nome": "Aeroporto de Boa Vista",
+        "telefone": "(95) 3623-9394"
+      }
+    ]
+  },
+  "Santa Catarina": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Carianos",
+          "cep": "88047-900",
+          "cidade": "Florianópolis",
+          "endereco": "Avenida Deputado Diomício Freitas, 3393",
+          "estado": "SC"
+        },
+        "nome": "Aeroporto de Florianópolis",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Tabuleiro",
+          "cep": "88220-000",
+          "cidade": "Itapema",
+          "endereco": "Rua Seiscentos, 323",
+          "estado": "SC"
+        },
+        "nome": "Rodoviária de Itapema",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Itoupava Norte",
+          "cep": "89052-000",
+          "cidade": "Blumenau",
+          "endereco": "Rua Dois de Setembro, 1222",
+          "estado": "SC"
+        },
+        "nome": "Rodoviária de Blumenau",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "88790-000",
+          "cidade": "Laguna",
+          "endereco": "Rua Arcângelo Bianchini, 36",
+          "estado": "SC"
+        },
+        "nome": "Rodoviaria de Laguna",
+        "telefone": "(48) 3646-0119"
+      },
+      {
+        "logradouro": {
+          "bairro": "n/a",
+          "cep": "89226-435",
+          "cidade": "Joinville",
+          "endereco": "Rua Santos Dumont, 9000",
+          "estado": "SC"
+        },
+        "nome": "Aeroporto de Joinville",
+        "telefone": "(47) 3417-4000"
+      },
+      {
+        "logradouro": {
+          "bairro": "Meia Praia",
+          "cep": "88372-900",
+          "cidade": "Navegantes",
+          "endereco": "Rua Osmar Gaya, 1297",
+          "estado": "SC"
+        },
+        "nome": "Aeroporto de Navegantes",
+        "telefone": "(47) 3342-9200"
+      }
+    ]
+  },
+  "Sergipe": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Aeroporto",
+          "cep": "49037-580",
+          "cidade": "Aracaju",
+          "endereco": "Avenida Senador Júlio César Leite, 1440",
+          "estado": "SE"
+        },
+        "nome": "Aeroporto de Aracaju",
+        "telefone": "(79) 3212-8500"
+      }
+    ]
+  },
+  "São Paulo": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Cumbica",
+          "cep": "07190-100",
+          "cidade": "Guarulhos",
+          "endereco": "Rodovia Hélio Smidt, s/n",
+          "estado": "SP"
+        },
+        "nome": "Aeroporto Governador André Franco Montoro",
+        "telefone": "n/a"
+      },
+      {
+        "logradouro": {
+          "bairro": "Estação",
+          "cep": "n/a",
+          "cidade": "Peruíbe",
+          "endereco": "Avenida 24 de Dezembro, s/n",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Peruíbe",
+        "telefone": "(13) 3454-1917"
+      },
+      {
+        "logradouro": {
+          "bairro": "Centro",
+          "cep": "13320-270",
+          "cidade": "Salto",
+          "endereco": "Rua Rio Branco, 1821",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Salto",
+        "telefone": "(11) 4028-0667"
+      },
+      {
+        "logradouro": {
+          "bairro": "Matadouro",
+          "cep": "12908-590",
+          "cidade": "Bragança Paulista",
+          "endereco": "Avenida Imigrantes, 3700",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Bragança Paulista",
+        "telefone": "(11) 4034-2640"
+      },
+      {
+        "logradouro": {
+          "bairro": "Jardim Vergueiro",
+          "cep": "18030-005",
+          "cidade": "Sorocaba",
+          "endereco": "Avenida Comendador Pereira Inácio, 100",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Sorocaba",
+        "telefone": "(15) 3232-8513"
+      },
+      {
+        "logradouro": {
+          "bairro": "Jardim Nova América",
+          "cep": "14800-320",
+          "cidade": "Araraquara",
+          "endereco": "Avenida Júlio Ursulino Pedroso, s/n",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Araraquara",
+        "telefone": "(16) 3322-0189"
+      },
+      {
+        "logradouro": {
+          "bairro": "n/a",
+          "cep": "18200-000",
+          "cidade": "Itapetininga",
+          "endereco": "Rua Doutor José Almeida Carvalho, 500",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Itapetininga",
+        "telefone": "(15) 3273-1298"
+      },
+      {
+        "logradouro": {
+          "bairro": "Vila Michelin",
+          "cep": "13600-001",
+          "cidade": "Araras",
+          "endereco": "Avenida Dona Renata, 2742",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Araras",
+        "telefone": "(19) 3551-2214"
+      },
+      {
+        "logradouro": {
+          "bairro": "Jardim America",
+          "cep": "13477-020",
+          "cidade": "Americana",
+          "endereco": "Rua Orlando Dei Santi, s/n",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Americana",
+        "telefone": "(19) 3468-2077"
+      },
+      {
+        "logradouro": {
+          "bairro": "Vila Washington Beleza",
+          "cep": "12701-110",
+          "cidade": "Cruzeiro",
+          "endereco": "Rua Independência",
+          "estado": "SP"
+        },
+        "nome": "Rodoviaria de Cruzeiro",
+        "telefone": "(12) 3144-0121"
+      },
+      {
+        "logradouro": {
+          "bairro": "Vila Congonhas",
+          "cep": "04626-911",
+          "cidade": "São Paulo",
+          "endereco": "Avenida Washington Luís, s/n",
+          "estado": "SP"
+        },
+        "nome": "Aeroporto de Congonhas",
+        "telefone": "(11) 5090-9000"
+      },
+      {
+        "logradouro": {
+          "bairro": "Jardim Viracopos",
+          "cep": "13055-900",
+          "cidade": "Campinas",
+          "endereco": "Rodovia Santos Dumont, km 66",
+          "estado": "SP"
+        },
+        "nome": "Aeroporto de Viracopos",
+        "telefone": "(19) 3725-5000"
+      }
+    ]
+  },
+  "Tocantins": {
+    "Malex": [
+      null,
+      {
+        "logradouro": {
+          "bairro": "Plano Diretor Expansão Sul",
+          "cep": "77061-900",
+          "cidade": "Palmas",
+          "endereco": "Avenida Joaquim Teotônio Segurado, s/n",
+          "estado": "TO"
+        },
+        "nome": "Aeroporto de Palmas",
+        "telefone": "(63) 3219-3700"
+      }
+    ]
+  }
+}
