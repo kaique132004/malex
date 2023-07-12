@@ -3,6 +3,9 @@
         "vendor-dir": "api/vendor"
     },
     "require": {
-        "phpmailer/phpmailer": "^6.7"
+        "phpmailer/phpmailer": "^6.7",
+        "kreait/firebase-php": "^5.26",
+        "grpc/grpc": "^1.52",
+        "google/cloud-firestore": "^1.36"
     }
 }

@@ -12,6 +12,7 @@
                     <li class="nav-item"><a class="nav-item text-white" href="./dhl.php">DHL</a></li>
                     <li class="nav-item"><a class="nav-item text-white" href="./servicos.php#mysimtravel">Mysimtravel</a></li>
                     <li class="nav-item"><a class="nav-item text-white" href="./contato.php">Contato</a></li>
+                    <li class="nav-item"><a class="nav-item text-white" href="./admin.php">Admin</a></li>
                 </ul>
             </div>
 

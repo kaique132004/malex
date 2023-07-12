@@ -1,6 +1,8 @@
-
+<?php
+    require_once('api/WebService/email.php');
+?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 
 <head>
     <meta charset="UTF-8">
@@ -44,7 +46,7 @@
     <section class="contato">
         <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17865.598346568157!2d-46.48739015007243!3d-23.430616389614183!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce8b8f8da04d2b%3A0xbd3cae41fd2cfb3e!2sMalex%20do%20Brasil!5e1!3m2!1spt-BR!2sbr!4v1670433355617!5m2!1spt-BR!2sbr"
-            width="100%" height="928" style="border:0;" allowfullscreen="" loading="lazy"
+            width="100%" height="928" style="border:0;" allowfullscreen="true" loading="lazy"
             referrerpolicy="no-referrer-when-downgrade">
         </iframe>
         <div>
@@ -67,13 +69,16 @@
                         <div class="form-desc">
                             <label for="comments" class="form-label">Mensagem</label>
                             <textarea name="mens" cols="30" rows="10" class="form-control" required
-                                minlength="20"></textarea>
+                                minlength="15"></textarea>
                         </div>
                         <div class="form-submit">
                             <button class="btn btn-primary" type="submit">Enviar</button>
-                            <button class="btn btn-danger" type="submit">Resetar</button>
+                            <button class="btn btn-danger" type="reset">Resetar</button>
                         </div>
                     </form>
+                    <?php 
+
+                    ?>
                 </article>
                 <article class="info-contact">
                     <h5>Malex</h5>

@@ -9,6 +9,7 @@ window.onscroll = function () {
 
 }
 
+
 $(document).ready(function() {
     $('#estado').change(function() {
       var estado = $(this).val();
