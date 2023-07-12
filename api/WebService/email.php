@@ -36,16 +36,16 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
         $mail->SMTPDebug = 0;
         $mail->Debugoutput = 'html';
         $mail->isSMTP();
-        $mail->Host = 'smtp.gmail.com';
+        $mail->Host = 'smtp.example.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'kaique.235.fly@gmail.com'; //SMTP username
-        $mail->Password = 'iokwoguakmozarnw'; //SMTP password
+        $mail->Username = '#############'; //SMTP username
+        $mail->Password = '###############'; //SMTP password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port = 587;
 
         $mail->isHTML(true);
         $mail->setFrom($email, $nome);
-        $mail->addAddress("kaique.235.fly@gmail.com", $assunto);
+        $mail->addAddress("example@example.com", $assunto);
         $mail->Subject = $assunto;
         $mail->msgHTML("Nome: $nome <br>
                         Email: $email <br>
@@ -79,10 +79,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email'])) {
         $mail_RES->SMTPDebug = 0;
         $mail_RES->Debugoutput = 'html';
         $mail_RES->isSMTP();
-        $mail_RES->Host = 'smtp.gmail.com';
+        $mail_RES->Host = 'smtp.example.com';
         $mail_RES->SMTPAuth = true;
-        $mail_RES->Username = 'kaique.235.fly@gmail.com';
-        $mail_RES->Password = 'iokwoguakmozarnw'; 
+        $mail_RES->Username = '#######################';
+        $mail_RES->Password = '##############'; 
         $mail_RES->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail_RES->Port = 587;
         $mail_RES->isHTML(true);
